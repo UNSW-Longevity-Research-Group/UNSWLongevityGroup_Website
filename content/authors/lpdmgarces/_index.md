@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Len Patrick Garces
+title: Dr Len Patrick Garces
 
 # Is this the primary user of the site?
 superuser: true
