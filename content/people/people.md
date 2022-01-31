@@ -23,6 +23,7 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - Industry Partners
 design:
   show_interests: false
   show_role: true
