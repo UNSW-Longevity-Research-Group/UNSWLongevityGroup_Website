@@ -10,7 +10,7 @@ role: Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales
+- name: School of Risk and Actuarial Studies
   url: "https://www.unsw.edu.au/staff/xiao-xu"
 
 # Short bio (displayed in user profile at end of posts)
