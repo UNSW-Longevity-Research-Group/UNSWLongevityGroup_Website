@@ -10,7 +10,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales
+- name: School of Risk and Actuarial Studies, UNSW Business School
   url: "https://cepar.edu.au/people/research-students/yuxin"
 
 # Short bio (displayed in user profile at end of posts)
