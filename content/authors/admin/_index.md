@@ -10,7 +10,7 @@ role: Professor of Actuarial Studies
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales
+- name: School of Risk and Actuarial Studies and ARC Centre of Excellence in Population Ageing Research
   url: "https://www.unsw.edu.au/staff/michael-sherris"
 
 # Short bio (displayed in user profile at end of posts)
