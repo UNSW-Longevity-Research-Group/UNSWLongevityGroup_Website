@@ -10,7 +10,7 @@ role: Senior Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales
+- name: ARC Centre of Excellence in Population Ageing Research
   url: "https://www.unsw.edu.au/staff/len-patrick-garces"
 
 # Short bio (displayed in user profile at end of posts)
