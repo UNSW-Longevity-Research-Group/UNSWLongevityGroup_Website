@@ -7,9 +7,9 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  Wowchemy  
+  UNSW Longevity Risk
   Research Group
-hero_media: welcome.jpg
+# hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **UNSW Longevity Risk Research Group** consists of academics, students, and industry partners who conduct research on longevity and mortality risk, financial and insurance product design, and other related fields. Members are from the School of Risk and Actuarial Studies of the UNSW Business School and close collaborators in industry.  
