@@ -18,7 +18,7 @@ content:
   user_groups:
   - Principal Investigators
   - Research Group Leader
-  - Researchers
+  - Academic Staff
   - Research Students
   - Administration
   - Visitors
