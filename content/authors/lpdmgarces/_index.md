@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researcher
+- Researchers
 ---
 
 I am a Senior Research Associate at the ARC Centre of Excellence in Population Ageing Research (CEPAR), UNSW Business School, where I investigates continuous-time stochastic mortality models and their applications to actuarial valuation.
