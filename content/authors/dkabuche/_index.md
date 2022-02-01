@@ -11,7 +11,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: School of Risk and Actuarial Studies, UNSW Business School
-  url: "https://www.unsw.edu.au/staff/thi-minh-hang-nguyen"
+  url: "https://www.unsw.edu.au/staff/doreen-kabuche"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
