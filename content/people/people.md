@@ -23,9 +23,9 @@ content:
   - Administration
   - Visitors
   - Alumni
-  - Industry Partners
+  - Affiliated Researchers and Industry Partners
 design:
   show_interests: false
-  show_role: true
+  show_role: false
   show_social: true
 ---
