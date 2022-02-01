@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Affiliated Reseachers and Industry Partners
+- Affiliated Researchers and Industry Partners
 ---
 
 Oscar Tian is a Senior Consultant, Pricing and Risk Analysis at MLC Australia.
