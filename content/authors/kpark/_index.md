@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kyu Park
+title: Dr Kyu Park
 
 # Is this the primary user of the site?
 superuser: true
