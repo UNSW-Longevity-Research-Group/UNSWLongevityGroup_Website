@@ -16,13 +16,9 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigators
   - Research Group Leader
   - Academic Staff
   - Research Students
-  - Administration
-  - Visitors
-  - Alumni
   - Affiliated Researchers and Industry Partners
 design:
   show_interests: false
