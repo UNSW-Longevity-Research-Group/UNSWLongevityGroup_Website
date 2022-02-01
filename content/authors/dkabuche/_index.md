@@ -69,4 +69,4 @@ user_groups:
 - Research Students
 ---
 
-Hang Nguyen is a PhD candidate at the School of Risk and Actuarial Studies, UNSW Business School.
+Doreen Kabuche is a PhD candidate at the School of Risk and Actuarial Studies, UNSW Business School.
