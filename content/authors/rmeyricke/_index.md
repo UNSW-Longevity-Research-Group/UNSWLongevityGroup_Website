@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Affiliated Reseachers and Industry Partners
+- Affiliated Researchers and Industry Partners
 ---
 
 An actuary for more than 15 years, Ramona focuses on using data, analytics and actuarial modelling to improve government, health and disability systems and services.
