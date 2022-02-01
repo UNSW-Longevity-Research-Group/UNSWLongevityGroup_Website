@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Doreen Kabuche
+title: Dr Cheng Wan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: School of Risk and Actuarial Studies, UNSW Business School
-  url: "https://www.unsw.edu.au/staff/doreen-kabuche"
+- name: ARC Centre of Excellence in Population Ageing Research
+  url: "https://www.unsw.edu.au/staff/cheng-wen"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Students
+- Academic Staff
 ---
 
-Doreen Kabuche is a PhD candidate at the School of Risk and Actuarial Studies, UNSW Business School.
+Cheng Wan is a Research Associate at the ARC Centre of Excellence in Population Ageing Research, UNSW Business School.
