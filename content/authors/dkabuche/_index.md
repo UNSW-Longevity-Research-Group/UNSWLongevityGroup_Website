@@ -11,7 +11,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: School of Risk and Actuarial Studies, UNSW Business School
-  url: "https://www.unsw.edu.au/staff/doreen-kabuche"
+  url: "https://www.unsw.edu.au/staff/thi-minh-hang-nguyen"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -69,4 +69,4 @@ user_groups:
 - Research Students
 ---
 
-Doreen Kabuche is a PhD candidate at the School of Risk and Actuarial Studies, UNSW Business School.
+Hang Nguyen is a PhD candidate at the School of Risk and Actuarial Studies, UNSW Business School.
