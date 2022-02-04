@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Fei Huang
+title: Fei Huang
 
 # Is this the primary user of the site?
 superuser: true
