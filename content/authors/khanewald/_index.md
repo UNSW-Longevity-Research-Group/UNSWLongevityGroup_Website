@@ -14,7 +14,7 @@ organizations:
   url: "https://www.unsw.edu.au/staff/katja-hanewald"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr Katja Hanewald is a Senior Lecturer at the School of Risk and Actuarial Studies, UNSW Business School.
 
 # interests:
 # - Artificial Intelligence
