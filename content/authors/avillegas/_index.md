@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Andres Villegas
+title: Andres Villegas
 
 # Is this the primary user of the site?
 superuser: true
