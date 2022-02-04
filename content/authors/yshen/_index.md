@@ -1,6 +1,6 @@
 ---
 # Display name
-title: A/Prof Yang Shen
+title: Yang Shen
 
 # Is this the primary user of the site?
 superuser: true
