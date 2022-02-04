@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Cheng Wan
+title: Cheng Wan
 
 # Is this the primary user of the site?
 superuser: false
