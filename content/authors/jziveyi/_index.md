@@ -1,6 +1,6 @@
 ---
 # Display name
-title: A/Prof Jonathan Ziveyi
+title: Jonathan Ziveyi
 
 # Is this the primary user of the site?
 superuser: true
