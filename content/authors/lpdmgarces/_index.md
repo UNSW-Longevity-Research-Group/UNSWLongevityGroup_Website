@@ -80,16 +80,3 @@ I am a Senior Research Associate at the ARC Centre of Excellence in Population A
 My research interests lie within the field of financial and actuarial mathematics, primarily on the applications of probability theory and stochastic analysis to tackle financial and actuarial problems (e.g. financial or insurance risk modelling and management, asset price modelling, term structure modelling, pricing and hedging financial derivatives) and the development of numerical and statistical methods to solve these problems.
 
 I obtained my PhD from the University of South Australia in 2021. My PhD research focused on the use of stochastic volatility and jump-diffusion models and formulating correspoding numerical methods for option pricing.
-
-**Education**
-- Doctor of Philosophy, University of South Australia
-- Master of Applied Mathematics, Ateneo de Manila University
-- BSc Applied Mathematics, Ateneo de Manila University
-- AB Economics, Ateneo de Manila University
-
-**Research Interests**
-- Stochastic mortality modelling
-- Option pricing under stochastic volatility and jump-diffusion
-- Model uncertainty in finance and insurance
-- Statistical and numerical methods for finance and insurance
-
