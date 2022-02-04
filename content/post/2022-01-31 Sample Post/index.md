@@ -1,5 +1,7 @@
 ---
 title: UNSW Risk and Actuarial Industry Workshop
+author:
+ - khanewald
 date: 2021-12-07
 ---
 
