@@ -22,10 +22,10 @@ organizations:
 # - Information Retrieval
 
 # education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+courses:
+ - course: PhD in Finance
+   institution: University of Technology, Sydney
+   year: []
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
