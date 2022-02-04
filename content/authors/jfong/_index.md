@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Joelle Fong
+title: Joelle Fong
 
 # Is this the primary user of the site?
 superuser: false
