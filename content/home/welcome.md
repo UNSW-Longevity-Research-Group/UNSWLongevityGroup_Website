@@ -6,9 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 1  # Order that this section will appear.
-title: |
-  UNSW Longevity Risk
-  Research Group
+title: []
 # hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +18,8 @@ design:
 
 <br>
 
-The **UNSW Longevity Risk Research Group** consists of academics, students, and industry partners who conduct research on longevity and mortality risk, financial and insurance product design, and other related fields. Members are from the School of Risk and Actuarial Studies of the UNSW Business School and close collaborators in industry.  
+The **UNSW Longevity Risk Research Group** consists of academics, students, and industry partners who conduct research on longevity and mortality risk, financial and insurance product design, and other related fields. Our members are from the School of Risk and Actuarial Studies of the UNSW Business School, the ARC Centre of Excellence in Population Ageing Research (CEPAR), or are close collaborators in other universities and in industry.  
+
+*Related Links*
+- [School of Risk and Actuarial Studies, UNSW Business School](https://www.unsw.edu.au/business/our-schools/risk-actuarial)
+- [ARC Centre of Excellence in Population Ageing Research](https://www.cepar.edu.au/)
