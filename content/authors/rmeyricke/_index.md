@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Ramona Meyricke
+title: Ramona Meyricke
 
 # Is this the primary user of the site?
 superuser: false
