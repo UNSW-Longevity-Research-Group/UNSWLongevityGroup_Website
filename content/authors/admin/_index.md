@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof Michael Sherris
+title: Michael Sherris
 
 # Is this the primary user of the site?
 superuser: false
