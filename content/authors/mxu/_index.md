@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Mengyi Xu
+title: Mengyi Xu
 
 # Is this the primary user of the site?
 superuser: false
