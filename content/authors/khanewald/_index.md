@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Katja Hanewald
+title: Katja Hanewald
 
 # Is this the primary user of the site?
 superuser: true
