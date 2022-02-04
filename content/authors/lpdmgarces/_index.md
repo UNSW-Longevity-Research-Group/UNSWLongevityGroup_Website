@@ -28,7 +28,16 @@ education:
   courses:
   - course: Doctor of Philosophy
     institution: University of South Australia
-    year: ' '
+    year: 2021
+  - course: Master of Applied Mathematics, Major in Mathematical Finance
+    institution: Ateneo de Manila University
+    year: 2015
+  - course: BSc Applied Mathematics, Major in Mathematical Finance
+    institution: Ateneo de Manila University
+    year: 2014
+  - course: AB Economics (Honor's Program)
+    institution: Ateneo de Manila University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
