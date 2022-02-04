@@ -25,7 +25,6 @@ organizations:
 courses:
  - course: PhD in Finance
    institution: University of Technology, Sydney
-   year: []
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
