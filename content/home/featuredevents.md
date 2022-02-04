@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 45
 
-title: Featured Publications
+title: Recent and Upcoming Events
 subtitle: ""
 
 content:
