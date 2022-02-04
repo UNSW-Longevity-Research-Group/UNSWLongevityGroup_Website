@@ -16,12 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+- Longevity risk management
+- Valuation of guarantees embedded in variable annuities
+- Option pricing under stochastic volatility
 
-# education:
+education:
 courses:
  - course: PhD in Finance
    institution: University of Technology, Sydney
