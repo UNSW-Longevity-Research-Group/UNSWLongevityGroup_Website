@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Adam Shao
+title: Adam Shao
 
 # Is this the primary user of the site?
 superuser: false
