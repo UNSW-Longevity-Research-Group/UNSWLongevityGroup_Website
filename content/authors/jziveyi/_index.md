@@ -3,7 +3,7 @@
 title: Jonathan Ziveyi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Associate Professor
@@ -21,11 +21,11 @@ interests:
 - Valuation of guarantees embedded in variable annuities
 - Option pricing under stochastic volatility
 
-education:
-  courses:
-   - course: PhD in Finance
-     institution: University of Technology, Sydney
-     year: ""
+# education:
+#  courses:
+#  - course: PhD in Finance
+#    institution: University of Technology, Sydney
+#    year: ""
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
