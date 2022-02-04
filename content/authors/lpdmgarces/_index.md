@@ -16,22 +16,28 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+# Research interests to show in About widget
+interests:
+- Stochastic mortality modelling
+- Option pricing under stochastic volatility and jump-diffusion
+- Model uncertainty in finance and insurance
+- Statistical and numerical methods for finance and insurance
 
-# education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+# Education to show in About widget
+education:
+  courses:
+  - course: Doctor of Philosophy
+    institution: University of South Australia
+    year: 2021
+  - course: Master of Applied Mathematics, Major in Mathematical Finance
+    institution: Ateneo de Manila University
+    year: 2015
+  - course: BSc Applied Mathematics, Major in Mathematical Finance
+    institution: Ateneo de Manila University
+    year: 2014
+  - course: AB Economics (Honor's Program)
+    institution: Ateneo de Manila University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
