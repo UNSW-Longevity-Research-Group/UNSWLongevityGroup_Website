@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Oscar Yu Tian
+title: Oscar Yu Tian
 
 # Is this the primary user of the site?
 superuser: false
