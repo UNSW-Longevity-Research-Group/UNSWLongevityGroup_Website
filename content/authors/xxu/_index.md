@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Xiao Xu
+title: Xiao Xu
 
 # Is this the primary user of the site?
 superuser: true
