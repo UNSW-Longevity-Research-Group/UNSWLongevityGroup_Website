@@ -69,8 +69,4 @@ user_groups:
 - Affiliated Researchers and Industry Partners
 ---
 
-An actuary for more than 15 years, Ramona focuses on using data, analytics and actuarial modelling to improve government, health and disability systems and services.
-
-She has extensive expertise in economic and financial modelling, predictive analytics and risk modelling across a range of applications in government and insurance.
-
-Ramona is an associate investigator at the ARC Centre of Excellence in Population Ageing Research, a collaboration between academia, government and industry, and is an active member of the Actuaries Institute’s Climate Risk Working Group. She regularly presents and writes about the implications of changing population demographics and climate change, and how government and businesses can manage these risks.
+Ramona Meyricke is a Director at Taylor Fry.
