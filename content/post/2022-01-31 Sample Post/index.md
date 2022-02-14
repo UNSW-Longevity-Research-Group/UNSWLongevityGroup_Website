@@ -3,6 +3,8 @@ title: UNSW Risk and Actuarial Industry Workshop
 authors:
  - khanewald
 date: 2021-12-07
+event:
+ - 2021-12 UNSW RAS Workshop
 ---
 
 The UNSW School of Risk and Actuarial Studies hosted the UNSW Risk and Actuarial Industry Workshop on 6-7 December 2021. The online workshop attracted more than 110 registrants and brought together industry experts and leading academics to discuss current and emerging topics in risk, actuarial science, and data analytics.
