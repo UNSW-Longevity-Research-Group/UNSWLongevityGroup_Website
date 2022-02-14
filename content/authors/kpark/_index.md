@@ -67,8 +67,6 @@ user_groups:
 - Academic Staff
 ---
 
-# About Me
-
-**Kyu Park** is a *Senior Research Associate* at the [ARC Centre of Excellence in Population Ageing Research (CEPAR)](https://www.cepar.edu.au/), UNSW Business School.
+Kyu Park is a Senior Research Associate at the ARC Centre of Excellence in Population Ageing Research (CEPAR), UNSW Business School.
 
 
