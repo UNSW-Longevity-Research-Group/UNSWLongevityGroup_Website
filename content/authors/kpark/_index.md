@@ -16,16 +16,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+interests:
+ - Mental Health
 
-# education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+education:
+  courses:
+  - course: PhD in Actuarial Studies and Business Analytics
+    institution: Macquarie University
+    year: 2022
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
@@ -37,10 +35,10 @@ organizations:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:test@example.org'
+social:
+ - icon: linkedin
+   icon_pack: fab
+   link: 'https://www.linkedin.com/in/kyu-park-85490536/?originalSubdomain=au'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -69,4 +67,8 @@ user_groups:
 - Academic Staff
 ---
 
-Kyu Park is a Senior Research Associate at the ARC Centre of Excellence in Population Ageing Research (CEPAR), UNSW Business School.
+# About Me
+
+**Kyu Park** is a *Senior Research Associate* at the [ARC Centre of Excellence in Population Ageing Research (CEPAR)](https://www.cepar.edu.au/), UNSW Business School.
+
+
