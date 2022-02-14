@@ -13,6 +13,7 @@ location: Online
 #   country: United States
 
 summary: The UNSW School of Risk and Actuarial Studies recently hosted the UNSW Risk and Actuarial Industry Workshop on 6-7 December 2021. 
+
 # abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
@@ -25,6 +26,7 @@ all_day: false
 publishDate: "2021-12-06"
 
 authors: []
+
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -51,7 +53,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ""
+projects: []
 ---
 
 The UNSW School of Risk and Actuarial Studies hosted the UNSW Risk and Actuarial Industry Workshop on 6-7 December 2021. The online workshop attracted more than 110 registrants and brought together industry experts and leading academics to discuss current and emerging topics in risk, actuarial science, and data analytics.
