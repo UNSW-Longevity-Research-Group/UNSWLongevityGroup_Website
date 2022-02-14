@@ -10,3 +10,5 @@ The UNSW School of Risk and Actuarial Studies hosted the UNSW Risk and Actuarial
 The aim of the workshop was to create networks and opportunities for further collaboration between industry and academia in research, education, and social engagement opportunities. The workshop followed the 29th Colloquium in Pensions and Retirement Research on 1-3 December 2021, also co-hosted by the School of Risk and Actuarial Studies.
 
 Learn more about the event in this [Actuaries Digital](https://www.actuaries.digital/2022/01/13/insights-from-the-unsw-risk-and-actuarial-industry-workshop/) article.
+
+The quadratic equation has form $ax^2 + bx + c = 0$. In display style, $$ax^2 + bx + c = 0.$$
