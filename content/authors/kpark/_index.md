@@ -17,6 +17,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+ - Disability and mortality modelling
+ - Data analytics
+ - Health economics
  - Mental Health
 
 education:
@@ -24,12 +27,13 @@ education:
   - course: PhD in Actuarial Studies and Business Analytics
     institution: Macquarie University
     year: 2022
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+  - course: MCom in Quantitative Finance
+    institution: University of Sydney
+    year: 2011
+  - course: Conjoint BSc (Mathematics) and BCom (Finance)
+    institution: University of Auckland
+    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,6 +71,8 @@ user_groups:
 - Academic Staff
 ---
 
-Kyu Park is a Senior Research Associate at the ARC Centre of Excellence in Population Ageing Research (CEPAR), UNSW Business School.
+Kyu is a CEPAR Senior Research Associate in the Risk and Actuarial Studies Department at UNSW.
+He is working on research projects in the Sustainable Wellbeing in Later Life research stream, focusing on the development of longevity and health risk models and optimal design of health and aged care insurance products with applications to various public sector support policies for retirement incomes and aged care. 
+He recently completed a PhD in Actuarial Studies and Business Analytics at Macquarie University for his work on analysis to find causes and outcomes of medication adherence in aged population.
 
 
